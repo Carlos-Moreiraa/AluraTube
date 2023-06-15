@@ -1,0 +1,133 @@
+{
+    "name": "Cadu Dev (DevMoreira)",
+    "job": "Software Enginner",
+    "github": "Carlos-Moreiraa",
+    "playlists": {
+        "Diversão": [
+            {
+                "title": "pediu em namoro na escola",
+                "url": "https://www.youtube.com/embed/tus8vWCMfDc",
+                "thumb": "https://img.youtube.com/vi/tus8vWCMfDc/hqdefault.jpg"
+            },
+            {
+                "title": "BLOX FRUITS: AVENTURA MUTCHO LOCA (ANIMAÇÃO)",
+                "url": "https://www.youtube.com/embed/kS2eNKKCOdk",
+                "thumb": "https://img.youtube.com/vi/kS2eNKKCOdk/hqdefault.jpg"
+            },
+            {
+                "title": "The Batman - ( Nando Moura )",
+                "url": "https://www.youtube.com/embed/pyCx9pAFP54",
+                "thumb": "https://img.youtube.com/vi/pyCx9pAFP54/hqdefault.jpg"
+            },
+            {
+                "title": "O SACRIFÍCIO DE GOKU!",
+                "url": "https://www.youtube.com/embed/jiXzCc-oRY4",
+                "thumb": "https://img.youtube.com/vi/jiXzCc-oRY4/hqdefault.jpg"
+            },
+            {
+                "title": "YUGI VS KAIBA!!!",
+                "url": "https://www.youtube.com/watch?v=EbKtDKbO9v8",
+                "thumb": "https://img.youtube.com/vi/EbKtDKbO9v8/hqdefault.jpg"
+            },
+            {
+                "title": "PeSsOaL QuEm FaLoU qUe SaI CoM aGuA, nÃo AcReDiTeM é MeNtIrA",
+                "url": "https://www.youtube.com/watch?v=zYhAE3m_K7M",
+                "thumb": "https://img.youtube.com/vi/zYhAE3m_K7M/hqdefault.jpg"
+            },
+            {
+                "title": "Something Spacey - Cyanide & Happiness Shorts",
+                "url": "https://www.youtube.com/watch?v=Ng769Yj-LG8",
+                "thumb": "https://img.youtube.com/vi/Ng769Yj-LG8/hqdefault.jpg"
+            },
+            {
+                "title": "Señor Leanfist",
+                "url": "https://www.youtube.com/watch?v=Bz6w1azI9m0",
+                "thumb": "https://img.youtube.com/vi/Bz6w1azI9m0/hqdefault.jpg"
+            }
+        ],
+        "front-end": [
+            {
+                "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+                "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+                "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+            },
+            {
+                "title": "O que você precisa saber pra começar com ReactJS! #ReactJS #FrontEnd",
+                "url": "https://www.youtube.com/watch?v=00_rIYoeJtQ",
+                "thumb": "https://img.youtube.com/vi/00_rIYoeJtQ/hqdefault.jpg"
+            },
+            {
+                "title": "TUDO que você deve estudar de JavaScript antes do React",
+                "url": "https://www.youtube.com/watch?v=37SwqREHRGI",
+                "thumb": "https://img.youtube.com/vi/37SwqREHRGI/hqdefault.jpg"
+            },
+            {
+                "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
+                "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+                "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+            },
+            {
+                "title": "Modern React Web Development Full Course - 12 Hours | 4 Real Industry Web Applications",
+                "url": "https://www.youtube.com/watch?v=XxXyfkrP298",
+                "thumb": "https://img.youtube.com/vi/XxXyfkrP298/hqdefault.jpg"
+            },
+            {
+                "title": "Guia de estudo JavaScript em 2023! (o que eu focaria)",
+                "url": "https://www.youtube.com/watch?v=EDotqZwJ4aA",
+                "thumb": "https://img.youtube.com/vi/EDotqZwJ4aA/hqdefault.jpg"
+            },
+            {
+                "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
+                "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
+                "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+            },
+            {
+                "title": "5 Erros Históricos do CSS",
+                "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
+                "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+            },
+            {
+                "title": "API Rest - Conectando frontend e backend - #28",
+                "url": "https://www.youtube.com/watch?v=eQ6q4NF2CBs",
+                "thumb": "https://img.youtube.com/vi/eQ6q4NF2CBs/hqdefault.jpg"
+            }
+        ],
+        "back-end": [
+            {
+                "title": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido) // Vlog #98",
+                "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI",
+                "thumb": "https://img.youtube.com/vi/TJ90DZjYdWI/hqdefault.jpg"
+            },
+            {
+                "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
+                "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
+                "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+            },
+            {
+                "title": "Integrando um App React com NodeJS - Passo a Passo Completo",
+                "url": "https://www.youtube.com/watch?v=edeoWfH_70U",
+                "thumb": "https://img.youtube.com/vi/edeoWfH_70U/hqdefault.jpg"
+            },
+            {
+                "title": "O que é Machine Learning? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
+                "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+            },
+            {
+                "title": "Integrando um App React com NodeJS - Passo a Passo Completo",
+                "url": "https://www.youtube.com/watch?v=UpqMUlh6BsQ",
+                "thumb": "https://img.youtube.com/vi/UpqMUlh6BsQ/hqdefault.jpg"
+            },
+            {
+                "title": "Node.js // Dicionário do Programador",
+                "url": "https://www.youtube.com/watch?v=vYekSMBCCiM",
+                "thumb": "https://img.youtube.com/vi/vYekSMBCCiM/hqdefault.jpg"
+            },
+            {
+                "title": "O que é o C#? #HipstersPontoTube",
+                "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
+                "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+            }
+        ]
+    }
+}
